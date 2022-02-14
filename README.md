@@ -1,4 +1,4 @@
-# Complejidad-Algor-tmica
+# Complejidad Algorítmica
 ![logogris_0](https://user-images.githubusercontent.com/75038202/153879878-a3ec927a-ad4f-4fa0-b768-be6dfb10a8b7.png)
 Prácticas
 
