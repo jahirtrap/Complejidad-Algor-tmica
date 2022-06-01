@@ -7,5 +7,3 @@ Práctica 1: https://colab.research.google.com/drive/1Vp06DdTyLURLhNkXKe_u0oYhHf
 Práctica 2: https://colab.research.google.com/drive/1wrfRlAvUs0Q7hhLAnVlUrO_MjHwjrQx0?usp=sharing
 
 Práctica 3: https://colab.research.google.com/drive/10D4QncWfNS-QGGfkvGIh9E_3t9dgZFOO?usp=sharing
-
-TT
